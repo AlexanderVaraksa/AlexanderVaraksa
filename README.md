@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-## My name is ALexander. I am a Full Stack Quality Assurance Engineer (Auto / Manual) in web, mobile (iOS / Android), API and databases
+## My name is Alexander. I am a Full Stack Quality Assurance Engineer (Auto / Manual) in web, mobile (iOS / Android), API and Databases.
 
 
 ## My stack and tools
