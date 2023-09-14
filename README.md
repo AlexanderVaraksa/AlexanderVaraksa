@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-## My name is Alexander. I am a Full Stack Quality Assurance Engineer (Auto / Manual) in web, mobile (iOS / Android), API and Databases.
+### My name is Alexander. 
+I am a Full Stack Quality Assurance Engineer (both Auto / Manual) 
+in web, mobile (iOS / Android), API and Databases.
 
 
-## My stack and tools
+### My stack and tools
+Python, PyCharm, pytest, selenium, selene, requests, Allure Report, Allure TestOps, Jira, GitHub, SQL, Jenkins, Postman, Swagger etc
 <p align="center"
 <code><img width="5%" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
 <code><img width="5%" title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></code>
@@ -15,7 +18,6 @@
 <code><img width="5%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"></code>
 <code><img width="5%" title="GitHub" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></code>
 <code><img width="5%" title="SQL" src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg"></code>
-<code><img width="5%" title="Selenoid" src="https://diginomica.com/sites/default/files/images/2017-09/docker-container.jpg"></code>
 <code><img width="5%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"></code>
 <code><img width="5%" title="Postman" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 <code><img width="5%" title="Swagger" src="https://avatars2.githubusercontent.com/u/7658037?v=3&s=400"></code>
