@@ -33,6 +33,9 @@ Allure Report, Allure TestOps, Jira, GitHub, SQL, selenoid, Postman, Swagger etc
 <a href="https://www.docker.com/"><img src="images/technologies/docker.png" title="Docker" alt="Docker" width="40" height="40"/></a>
 <a href="https://aerokube.com/selenoid/"><img src="images/technologies/selenoid.png" title="Selenoid" alt="Selenoid" width="40" height="40"/></a>
 <a href="https://www.postman.com/"><img src="images/technologies/postman.png" title="Postman" alt="Postman" width="40" height="40"/></a>
+<a href="https://www.github.com/"><img src="images/technologies/github.png" title="Github" alt="Github" width="40" height="40"/></a>
+<a href="https://www.swagger.io/"><img src="images/technologies/swagger.png" title="Swagger" alt="Swagger" width="40" height="40"/></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img src="images/technologies/sql.png" title=" SQL" alt="SQL" width="40" height="40"/></a>
 <a href="https://appium.io/"><img src="images/technologies/appium.png" title="Appium" alt="Appium" width="40" height="40"/></a>
 <a href="https://www.browserstack.com/"><img src="images/technologies/browserstack.png" title="Browserstack" alt="Browserstack" width="40" height="40"/></a>
 <a href="https://developer.android.com/studio"><img src="images/technologies/android_studio.png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/></a>
