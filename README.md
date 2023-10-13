@@ -8,7 +8,7 @@ in web, mobile (iOS / Android), APIs and Databases.
 Python, Robot framework, selenium, selene, requests, Allure Report, Allure TestOps, Jira, GitHub, SQL, Jenkins, Postman, Swagger etc
 <p align="center"
 <code><img width="5%" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
-<code><img width="5%" title="Robot Framework" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"></code>
+<code><img width="5%" title="Robot Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Robot_Framework_svg_icon.svg/240px-Robot_Framework_svg_icon.svg.png"></code>
 <code><img width="5%" title="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"></code>
 <code><img width="5%" title="Selene" src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/264/h/e0cabcb69a2df1e6b1086292c020a4a7.png"></code>
 <code><img width="5%" title="Pytest" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg"></code>
