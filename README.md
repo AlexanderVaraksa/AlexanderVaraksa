@@ -1,7 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
-### My name is Alexander. 
+## 👩🏻‍💻 About me
+My name is Alexander and I'm **open for new opportunities
+
 I am a Full Stack Quality Assurance Engineer (both Auto / Manual) 
+with 7+ years of commercial experience
 in web, mobile (iOS / Android), APIs and Databases.
+
+## 🧭 Contacts
+[<img src='images/other/gmail.png' alt='gmail' height='30'>](mailto:alex.job.qa@gmail.com) 
+
+## 🐊 my Pet projects
+- [Web UI tests](https://github.com/AlexanderVaraksa/demo_ui_tests)
+- [API tests](https://github.com/AlexanderVaraksa/demo_api_tests)
 
 
 ### My stack and tools
