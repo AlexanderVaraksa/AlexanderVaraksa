@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
 ## 👩🏻‍💻 About me
-My name is Alexander and I'm **open for new opportunities
+My name is Alexander and I'm **open for new opportunities**
 
 I am a Full Stack Quality Assurance Engineer (both Auto / Manual) 
 with 7+ years of commercial experience
@@ -14,8 +14,8 @@ in web, mobile (iOS / Android), APIs and Databases.
 - [API tests](https://github.com/AlexanderVaraksa/demo_api_tests)
 
 
-### My stack and tools
-Python, Robot framework, selenium, selene, pytest, Jenkins, PyCharm, requests, Allure Report, Allure TestOps, Jira, GitHub, SQL, selenoid, Postman, Swagger etc
+## 🛠️ My stack and tools
+**Python, Robot framework, selenium, selene, pytest, Jenkins, PyCharm, requests, Allure Report, Allure TestOps, Jira, GitHub, SQL, selenoid, Postman, Swagger** etc
 <p align="left"
 <code><img width="5%" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
 <code><img width="5%" title="Robot Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Robot_Framework_svg_icon.svg/240px-Robot_Framework_svg_icon.svg.png"></code>
