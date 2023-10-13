@@ -5,7 +5,7 @@ in web, mobile (iOS / Android), APIs and Databases.
 
 
 ### My stack and tools
-Python, Robot framework, selenium, selene, pytest, Jenkins, PyCharm, requests, Allure Report, Allure TestOps, Jira, GitHub, SQL, Postman, Swagger etc
+Python, Robot framework, selenium, selene, pytest, Jenkins, PyCharm, requests, Allure Report, Allure TestOps, Jira, GitHub, SQL, selenoid, Postman, Swagger etc
 <p align="left"
 <code><img width="5%" title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1024px-Python.svg.png"></code>
 <code><img width="5%" title="Robot Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Robot_Framework_svg_icon.svg/240px-Robot_Framework_svg_icon.svg.png"></code>
