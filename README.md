@@ -18,7 +18,7 @@ Python, Robot framework, selenium, selene, pytest, Jenkins, PyCharm, requests, A
 <code><img width="5%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"></code>
 <code><img width="5%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"></code>
 <code><img width="5%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"></code>
-<code><img width="5%" title="GitHub" src="https://en.wikipedia.org/wiki/GitHub#/media/File:GitHub_Invertocat_Logo.svg"></code>
+<code><img width="5%" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
 <code><img width="5%" title="SQL" src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg"></code>
 
 <code><img width="5%" title="Postman" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
