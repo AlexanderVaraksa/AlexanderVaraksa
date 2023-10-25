@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=160&section=header&text=Hi%20there!&fontAlignY=32&fontAlign=20&fontSize=52&animation=twinkling&fontColor=EAF5D2)
 
-### My name is Alexander and I'm **open for new opportunities!**
+### My name is Alex and I'm **open for new opportunities!**
 
 I am a Full Stack Quality Assurance Engineer (both Auto / Manual)   
 with 7+ years of automation commercial experience  
