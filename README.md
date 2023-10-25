@@ -3,7 +3,7 @@
 ### My name is Alexander and I'm **open for new opportunities!**
 
 I am a Full Stack Quality Assurance Engineer (both Auto / Manual)   
-with 7+ years of commercial experience  
+with 7+ years of automation commercial experience  
 in web, mobile (iOS / Android), APIs and Databases.
 
 ### 🧭 Contacts:  
@@ -15,8 +15,8 @@ in web, mobile (iOS / Android), APIs and Databases.
 
 
 ### 🛠️ My stack and tools
-Python, Robot framework, selenium, selene, pytest, Jenkins, PyCharm, requests,   
-Allure Report, Allure TestOps, Jira, GitHub, SQL, selenoid, Postman, Swagger etc
+Python, Robot framework, Selenium, selene, pytest, Jenkins, PyCharm, requests,   
+Allure Report, Allure TestOps, Jira, GitHub, SQL, selenoid, Postman, Swagger, Appium etc
 
 <div>
 <a href="https://www.python.org/"><img src="images/technologies/python.png" title="Python" alt="Python" width="40" height="40"/></a>
@@ -41,30 +41,6 @@ Allure Report, Allure TestOps, Jira, GitHub, SQL, selenoid, Postman, Swagger etc
 <a href="https://developer.android.com/studio"><img src="images/technologies/android_studio.png" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/></a>
 <a href="https://www.atlassian.com/software/confluence"><img src="images/technologies/confluence.png" title="Confluence" alt="Confluence" width="40" height="40"/></a>
 </div>
-
-<p align="left"
-<code>
-<a href="https://www.python.org/"><img src="images/technologies/python.png" alt="Python" width="5%"/></a>
-<code><img width="5%" title="Robot Framework" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Robot_Framework_svg_icon.svg/240px-Robot_Framework_svg_icon.svg.png"></code>
-<code><img width="5%" title="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png"></code>
-<code><img width="5%" title="Selene" src="https://fs.getcourse.ru/fileservice/file/download/a/159627/sc/264/h/e0cabcb69a2df1e6b1086292c020a4a7.png"></code>
-<code><img width="5%" title="Pytest" src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg"></code>
-<code><img width="5%" title="Jenkins" src="https://avatars.githubusercontent.com/u/2520748?v=4"></code>
-<code><img width="5%" title="Pycharm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png"></code>
-<code><img width="5%" title="Requests" src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png"></code>
-</code>
-</p>
-<p align="left"
-<code>
-<code><img width="5%" title="Allure Report" src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4"></code>
-<code><img width="5%" title="Allure TestOps" src="https://marketplace-cdn.atlassian.com/files/92e2d8c3-2a30-46c0-bf21-2453a4a270d3?fileType=image&mode=full-fit"></code>
-<code><img width="5%" title="Jira" src="https://logojinni.com/image/logos/jira-3.svg"></code>
-<code><img width="5%" title="GitHub" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"></code>
-<code><img width="5%" title="SQL" src="https://image.shutterstock.com/image-vector/sql-database-icon-logo-design-260nw-684826648.jpg"></code>
-<code><img width="5%" title="Postman" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
-<code><img width="5%" title="Swagger" src="https://avatars2.githubusercontent.com/u/7658037?v=3&s=400"></code>
-</code>
-</p>
 
 ---------------
 
